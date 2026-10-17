@@ -2,25 +2,21 @@
 
 Live website: https://remieisaian1.github.io/fyp-studio/
 
-A mobile-friendly Kingston CI6600 2026/27 planner for a clothing retail inventory decision-support project.
+A responsive Kingston CI6600 project workspace for a clothing retail inventory decision-support project.
 
-## Features
+## Checklist
 
-76 tasks across 12 phases, expandable task resources, university module links, search and filters, persistent checkboxes and notes, editable deadlines, calendar reminders and JSON progress backups.
+Seven main divisions, including Introduction & State of the Art Review, contain twelve task groups and 76 checkable subtasks. Each division has a relevant marking criteria table, labelled as suggested evidence rather than the official university rubric. Each subtask has notes pointing to relevant module topics and previous coursework, plus an editable evidence field and academic reading links.
 
-## Run locally
+## Progress
 
-Open index.html in a browser, or serve this folder with any static web server. No dependencies or build step are required.
+The completion pie chart updates with the checkboxes. Progress and notes are saved in browser storage; existing task IDs and the storage key are retained from the previous version. Export/import supports backups, including older FYP Studio exports. Notes and progress do not sync across devices. There are no deadline controls or Canvas links.
 
-## Hosting
+## Run
 
-GitHub Pages serves the main branch from the repository root. Changes to index.html, style.css or app.js deploy automatically.
+Open index.html, or serve this folder with any static web server. No dependencies or build step are required. GitHub Pages serves the main branch from the repository root.
 
-## Your data
+## Content
 
-Progress and notes stay in your browser. They do not sync across browsers, devices or website domains. Export a JSON backup to transfer progress. In-app reminders appear while the app is open; calendar exports provide a one-day alarm.
-
-## Sources
-
-This is a reconstructed planning checklist, not an official assessment specification. Confirm CI6600 requirements, dates and submission times in Canvas. Historical Canvas links require university sign-in. CI4250 and Algorithms / Parallel Programming / AI course links can be added in the resource shelf.
+Confirm exact marking criteria against the CI6600 assessment brief. Learning notes identify confirmed database coursework where available and label unverified assignment connections as suggestions. The plan is reconstructed guidance, not an official assessment specification.
 
